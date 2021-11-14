@@ -2,7 +2,7 @@ namespace:
   name: argocd
  
 image:
-  repository: 202011501/ml-flask-frontend
+  repository: 202011501/civo-frontend
   tag: latest
 
 replicaCount: 3
